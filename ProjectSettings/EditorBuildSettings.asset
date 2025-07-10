@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ShopForest.unity
+    guid: 4b7998ea259c33d469c80f6e3891a3de
+  - enabled: 1
+    path: Assets/Scenes/Forest Level.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/ShopCave.unity
+    guid: 90df4b647ef5271489fe02478b2eb750
+  - enabled: 1
+    path: Assets/Scenes/Cave Level.unity
+    guid: c7194f2e5e7a652468ad430a046f9811
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 6fd7a3406cb4645409a598fb15b6ceb8
+  - enabled: 1
+    path: Assets/Scenes/Game Over.unity
+    guid: 89d51214b876fe84895bca29a59bd983
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: b330c7e21686032448a001509f396a09
+  m_configObjects: {}
